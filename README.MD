@@ -11,10 +11,10 @@ General CSS'i bir projeye CDN linki olarak ekleyerek, kodu doğrudan çözüm i�
 Aşağıdaki linki html sayfanıza yapıştırdığınızda General CSS'i kullanabilirsiniz.
 
 ```
-https://cdn.jsdelivr.net/gh/rtcysoftware/GeneralMinCss@latest/general.min.css
+https://cdn.jsdelivr.net/gh/RTcYSoftWare/GeneralMinCss@latest/general.min.css
 ```
 
 ```
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/rtcysoftware/GeneralMinCss@latest/general.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/RTcYSoftWare/GeneralMinCss@latest/general.min.css">
 ```
 ---
